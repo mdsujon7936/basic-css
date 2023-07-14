@@ -1,0 +1,31 @@
+header{
+    /* width: auto; */
+    height: 200px;
+    background-image: url('../nuru.jpg');
+    background-repeat: no-repeat;
+    border-radius: 15px;
+    color: rgb(27, 122, 206);
+    background-repeat: repeat-x;
+    font-size: 100px;
+    text-align: center;
+    background-color: blueviolet;
+    background-size: cover;
+
+}
+/* #boka{
+    background-color: blueviolet;
+    border-radius: 15px;
+} */
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    /* padding-left: 10px; */
+    margin-left: 20px;
+}
+.blogs{
+    background-color: coral;
+    border: 15px solid yellowgreen;
+    margin-top:  20px;
+    border-radius: 15px;
+    padding-left: 10px;
+    box-shadow: 20px 10px 10px rgb(21, 135, 158);
+}
